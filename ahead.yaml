@@ -1,0 +1,21 @@
+oefVersion: "0.1"
+kind: user-data
+id: user-9c88cd41-3335-466d-99fe-6c290657abf1
+displayName:
+  zh-CN: 链路验证 glink24 2026-09-04T12-08-22-161Z
+subscriptions:
+  - locator: github:glink24/ahead-feed-personal-9c88cd41
+    manifestPath: ahead.yaml
+    kind: event-feed
+favorites: []
+hidden: []
+pins: []
+interests: {}
+settings: {}
+extensions:
+  io.ahead.personal-feed:
+    locator: github:glink24/ahead-feed-personal-9c88cd41
+    manifestPath: ahead.yaml
+    kind: event-feed
+notes: {}
+patches: []
