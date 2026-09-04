@@ -14,7 +14,8 @@ subscriptions:
   - locator: github:glink25/ahead-user-b2c15d7a
     manifestPath: ahead.yaml
     kind: user-data
-favorites: []
+favorites:
+  - personal-bc8fa671-3151-4d2a-97a1-28c9a85db3eb
 hidden: []
 pins: []
 interests: {}
